@@ -8,7 +8,7 @@ load_dotenv()
 
 # Configure Streamlit page settings
 st.set_page_config(
-    page_title= 'Naji Chat bot ',
+    page_title= 'Chat with Gemini pro ',
     page_icon=':brain:', # Favicon emoji
     layout="centered",  # Page layout option
 )
